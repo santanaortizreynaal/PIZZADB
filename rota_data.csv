@@ -1,4 +1,4 @@
-﻿row_id,rota_id,date,shift_id,staff_id
+row_id,rota_id,date,shift_id,staff_id
 1,ro0001,2024-01-13,sh0011,st0001
 2,ro0001,2024-01-13,sh0011,st0002
 3,ro0001,2024-01-13,sh0011,st0009
